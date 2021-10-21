@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.github.TestYandex
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.402 s - in com.github.TestYandex
